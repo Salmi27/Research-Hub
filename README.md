@@ -1,5 +1,2 @@
 # Research-Hub
-Discover the 'Research Hub' - your gateway to cutting-edge academia and insightful research. Join me on this knowledge-sharing journey as we explore diverse domains and advance our understanding together.
-Reserach Interest: Real-Time Sentiment Analysis and Trend Identification on Twitter: Leveraging Data-Driven Insights to Optimize Content Strategy for Enhanced Follower Acquisition and Subscriber Engagement.
-Google Scholor ID: https://scholar.google.com/citations?view_op=list_works&hl=en&user=PdW9J7EAAAAJ&gmla=AOV7GLPsgEx2f-ZPOFKFfzdZ5bpnQNO78r5sNumG7bAIHCOPreXuF12pzZIp_kOwq0BWtW-Hsn5GiyliP8guUByNYkVT2uXt6lahaDMWxg0NwSg
-LinkedIn: https://www.linkedin.com/in/salmi-mohamed-501995201/
+"Welcome to the 'Research Hub' – your go-to repository for cutting-edge research and scholarly exploration! Here, I curate and share a diverse range of insightful contents, links, and details related to my passion for academia and research. As an avid researcher, I delve into various domains, including but not limited to science, technology, social sciences, and beyond. Join me in this knowledge-sharing journey, where I aim to foster a collaborative environment for like-minded enthusiasts, aspiring scholars, and curious minds. Together, let's explore the frontiers of knowledge and contribute to the advancement of human understanding."
